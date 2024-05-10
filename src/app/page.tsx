@@ -1,3 +1,5 @@
+"use client";
+
 import { AccountMenu, LanguageSelect, MainMenu } from "./(components)";
 import { Logo } from "@/components/atoms";
 
