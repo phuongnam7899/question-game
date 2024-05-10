@@ -1,6 +1,6 @@
 "use client";
 
-import { useLocalStorage } from "@uidotdev/usehooks";
+import { useLocalStorage } from "@/hooks";
 
 interface LanguageItemProps {
   language: string;
